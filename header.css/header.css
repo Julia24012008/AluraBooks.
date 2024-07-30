@@ -17,3 +17,6 @@
 .container__imagem {
     padding: 1em;
 }
+.cabeçalho {
+    background-color: var(--branco);
+}
