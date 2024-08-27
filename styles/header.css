@@ -20,6 +20,10 @@
     align-items: center;
 }
 
+.container__imagem {
+    padding: 1em;
+}
+
 .lista-menu__titulo,
 .lista-menu__item {
   padding: 1em;
