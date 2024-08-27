@@ -19,9 +19,6 @@ body {
         --laranja: #EB9B00;
     }
     
-    .lista-menu__titulo {
-        color: var(--laranja);
-    }
 
 :root {
     
