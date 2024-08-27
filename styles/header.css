@@ -35,15 +35,12 @@
     display: block;
 }
 
-/* código omitido */
-
 .lista-menu_titulo, 
 .lista-menu_item {
     padding: 1em,
     background-color: var(--branco);
 
 }
-/* código omitido */
 
 .lista-menu__link {
     background: var(--azul-degrade);
