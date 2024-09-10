@@ -4,6 +4,10 @@
     background-image: url("../img/menu.svg");
     display:inline-block ;
 }
+.cabeçalho{
+  background-color: var(--branco);
+}
+
 @import url("styles/header.css");
 
 
