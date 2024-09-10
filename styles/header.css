@@ -21,7 +21,8 @@
 .container__imagem {
     padding: 1em;
 }
-.lista-menu {
+
+
     background-color: var(--branco);
     display: none;
     position: absolute;
