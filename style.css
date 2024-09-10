@@ -4,6 +4,7 @@
     display: inline-block;
     background-image: url("../img/menu.svg");
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 .cabeçalho{
